@@ -8,11 +8,11 @@ Demonstrar visualmente como os algoritmos de escalonamento (FIFO, Round Robin, P
 # ⚙️ Funcionalidades
 3 Algoritmos Implementados:
 
-# ⏳ FIFO (First In, First Out)
+## ⏳ FIFO (First In, First Out)
 
-# 🔄 Round Robin (com quantum ajustável)
+## 🔄 Round Robin (com quantum ajustável)
 
-# ⚡ Por Prioridade (processos com prioridades aleatórias)
+## ⚡ Por Prioridade (processos com prioridades aleatórias)
 
 Interface Visual: Barra de progresso e status em tempo real.
 
@@ -29,12 +29,12 @@ Módulos: random, time, collections.deque
 Clone o repositório:
 
 bash
-git clone https://github.com/seu-usuario/corrida-processos.git  
-cd corrida-processos  
+git clone https://github.com/felipebrazao/PoliticasEscalonamento.git  
+cd PoliticasEscalonamento  
 Execute o jogo:
 
 bash
-python corrida_processos.py  
+python Corrida.py  
 # 🎮 Como Jogar
 Escolha um algoritmo no menu.
 
