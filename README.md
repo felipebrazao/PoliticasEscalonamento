@@ -19,12 +19,12 @@ Interface Visual: Barra de progresso e status em tempo real.
 Modo "Corrida": Processos competem até a conclusão.
 
 # 📦 Bibliotecas Utilizadas
-Biblioteca	Versão	Descrição	Referência Oficial
-curses	-	Interface gráfica no terminal	Python Docs
-random	-	Geração de números aleatórios	Python Docs
-time	-	Controle de tempo/delay	Python Docs
-collections.deque	-	Fila de processos eficiente	Python Docs
-sys	-	Interação com o sistema	Python Docs
+##Biblioteca	Versão	Descrição	Referência Oficial
+##curses	-	Interface gráfica no terminal	Python Docs
+##random	-	Geração de números aleatórios	Python Docs
+##time	-	Controle de tempo/delay	Python Docs
+##collections.deque	-	Fila de processos eficiente	Python Docs
+##sys	-	Interação com o sistema	Python Docs
 
 
 # 🛠️ Tecnologias
