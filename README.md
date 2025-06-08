@@ -42,16 +42,6 @@ Observe os processos sendo executados (barra de progresso e tempo).
 
 Ao final, o primeiro processo concluído é declarado vencedor!
 
-# 📸 Capturas de Tela
-(Adicione imagens do jogo em execução, se possível)
-
-# 🤝 Contribuição
-Contribuições são bem-vindas! Abra uma issue ou envie um PR para:
-
-Adicionar novos algoritmos (ex: SJF, Multilevel Queue).
-
-Melhorar a interface (cores, animações).
-
 # 📜 Licença
 MIT License - veja LICENSE.
 
